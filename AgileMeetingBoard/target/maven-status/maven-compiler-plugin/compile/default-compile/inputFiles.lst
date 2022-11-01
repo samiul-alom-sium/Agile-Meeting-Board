@@ -1,0 +1,12 @@
+/home/sium/source code/AgileMeetingBoard/src/main/java/config/RepoConfig.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/controller/CommentController.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/util/AuditAwareImplementation.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/model/CommentType.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/repo/CommentRepository.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/repo/UserRepository.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/service/CommentService.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/config/SecurityConfig.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/model/Comment.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/model/User.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/AgileMeetingBoard/DemoApplication.java
+/home/sium/source code/AgileMeetingBoard/src/main/java/service/UserService.java
